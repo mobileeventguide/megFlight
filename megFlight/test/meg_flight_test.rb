@@ -10,14 +10,14 @@ class MegFlightTest < MiniTest::Unit::TestCase
       :identifier => 'gd.event.testApp2012',
       :title => "Test App 2012",
       :subtitle => "v0.81",
-      :host_url => "http://admin.event.gd/gd.event.testApp2012"
+      :host_url => "http://example.com/gd.event.testApp2012"
     }                                              
     @options = {
       :ipa => "meg_flight/test/assets/test.ipa",
       :identifier => 'gd.event.testApp2012',
       :title => "Test App 2012",
       :subtitle => "v0.81",
-      :host_url => "http://admin.event.gd/gd.event.testApp2012"
+      :host_url => "http://example.com/gd.event.testApp2012"
     }   
   end
 
