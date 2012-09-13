@@ -1,5 +1,3 @@
-require 'pry'
-
 require './megFlight/init'
 
 file = ARGV[0]
